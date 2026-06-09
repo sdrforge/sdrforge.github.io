@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdrforge_docs=self.webpackChunksdrforge_docs||[]).push([["823"],{7176(r,e,s){s.r(e),s.d(e,{default:()=>o});var d=s(4848);s(6540);var c=s(6347);function o(){return(0,d.jsx)(c.rd,{to:"/docs/Overview"})}}}]);
